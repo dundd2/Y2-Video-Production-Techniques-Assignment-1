@@ -1,6 +1,6 @@
 Y2-Video-Production-Techniques-Assignment-1
 
-This project was created for the Year 2 Video Production Techniques module in October 2024. It showcases my skills in visual media, including photography composition and video editing. The goal was to produce a photography piece and a short video with a strong narrative structure, demonstrating core competencies in both the creative and technical aspects of media production. For more detailed insights, please refer to the project report.
+This project was created for the Year 2 G5123: Video Production Techniques module in October 2024. It showcases my skills in visual media, including photography composition and video editing. The goal was to produce a photography piece and a short video with a strong narrative structure, demonstrating core competencies in both the creative and technical aspects of media production. For more detailed insights, please refer to the project report.
 
 ## Overview
 
